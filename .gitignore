@@ -1,0 +1,14 @@
+mysql/
+Thumbs.db
+.idea/
+.env
+log/
+docker-compose.override.yml
+node_modules/
+*.log
+package-lock.json
+package.json
+vendor
+cred.json
+client_secret.json
+composer.lock
